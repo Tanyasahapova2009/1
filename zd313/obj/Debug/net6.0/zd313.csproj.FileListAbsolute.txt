@@ -1,0 +1,15 @@
+D:\Documents\Downloads\11\1\zd313\bin\Debug\net6.0\zd313.exe
+D:\Documents\Downloads\11\1\zd313\bin\Debug\net6.0\zd313.deps.json
+D:\Documents\Downloads\11\1\zd313\bin\Debug\net6.0\zd313.runtimeconfig.json
+D:\Documents\Downloads\11\1\zd313\bin\Debug\net6.0\zd313.dll
+D:\Documents\Downloads\11\1\zd313\bin\Debug\net6.0\zd313.pdb
+D:\Documents\Downloads\11\1\zd313\obj\Debug\net6.0\zd313.csproj.AssemblyReference.cache
+D:\Documents\Downloads\11\1\zd313\obj\Debug\net6.0\zd313.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Downloads\11\1\zd313\obj\Debug\net6.0\zd313.AssemblyInfoInputs.cache
+D:\Documents\Downloads\11\1\zd313\obj\Debug\net6.0\zd313.AssemblyInfo.cs
+D:\Documents\Downloads\11\1\zd313\obj\Debug\net6.0\zd313.csproj.CoreCompileInputs.cache
+D:\Documents\Downloads\11\1\zd313\obj\Debug\net6.0\zd313.dll
+D:\Documents\Downloads\11\1\zd313\obj\Debug\net6.0\refint\zd313.dll
+D:\Documents\Downloads\11\1\zd313\obj\Debug\net6.0\zd313.pdb
+D:\Documents\Downloads\11\1\zd313\obj\Debug\net6.0\zd313.genruntimeconfig.cache
+D:\Documents\Downloads\11\1\zd313\obj\Debug\net6.0\ref\zd313.dll
