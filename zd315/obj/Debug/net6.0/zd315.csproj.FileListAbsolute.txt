@@ -1,0 +1,15 @@
+D:\Documents\Downloads\11\1\zd315\bin\Debug\net6.0\zd315.exe
+D:\Documents\Downloads\11\1\zd315\bin\Debug\net6.0\zd315.deps.json
+D:\Documents\Downloads\11\1\zd315\bin\Debug\net6.0\zd315.runtimeconfig.json
+D:\Documents\Downloads\11\1\zd315\bin\Debug\net6.0\zd315.dll
+D:\Documents\Downloads\11\1\zd315\bin\Debug\net6.0\zd315.pdb
+D:\Documents\Downloads\11\1\zd315\obj\Debug\net6.0\zd315.csproj.AssemblyReference.cache
+D:\Documents\Downloads\11\1\zd315\obj\Debug\net6.0\zd315.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Downloads\11\1\zd315\obj\Debug\net6.0\zd315.AssemblyInfoInputs.cache
+D:\Documents\Downloads\11\1\zd315\obj\Debug\net6.0\zd315.AssemblyInfo.cs
+D:\Documents\Downloads\11\1\zd315\obj\Debug\net6.0\zd315.csproj.CoreCompileInputs.cache
+D:\Documents\Downloads\11\1\zd315\obj\Debug\net6.0\zd315.dll
+D:\Documents\Downloads\11\1\zd315\obj\Debug\net6.0\refint\zd315.dll
+D:\Documents\Downloads\11\1\zd315\obj\Debug\net6.0\zd315.pdb
+D:\Documents\Downloads\11\1\zd315\obj\Debug\net6.0\zd315.genruntimeconfig.cache
+D:\Documents\Downloads\11\1\zd315\obj\Debug\net6.0\ref\zd315.dll
